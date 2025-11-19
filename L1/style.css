@@ -1,0 +1,26 @@
+body {
+    margin: 0; font-family: Arial; background: #f5f7fc; color: #333;
+}
+
+nav {
+    background: #4a80e2; text-align: center; padding: 12px;
+}
+nav a {
+    color: #fff; margin: 0 12px; text-decoration: none; font-weight: bold;
+}
+
+.hero {
+    text-align: center; padding: 60px 20px; background: #e3edfc;
+}
+section {
+    text-align: center; padding: 30px 20px; width: 90%; margin: auto;
+}
+
+.card {
+    background: #fff; padding: 18px; margin: 15px auto; max-width: 380px;
+    border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+footer {
+    background: #4a80e2; color: #fff; text-align: center; padding: 10px;
+}
